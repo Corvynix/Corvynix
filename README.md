@@ -1,4 +1,11 @@
-# 🦇 Abdulrahman Diab — The Mind Behind the Code
+<h1 align="center">🦇 Abdulrahman Diab — The Mind Behind the Code</h1>
+<h3 align="center">aka <b>Corvynix</b> — The Creator in the Shadows</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Corvynix&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/Corvynix?label=Followers&style=for-the-badge&color=purple" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Corvynix?label=Stars&style=for-the-badge&color=purple" alt="Stars"/>
+</p>
 
 > “I don’t just build software. I design experiences that make people feel something.”
 
@@ -37,7 +44,7 @@ People don’t follow you because of what you make — they follow you because o
 `Python` • `JavaScript` • `Swift` • `Next.js` • `Node.js` • `Supabase`  
 `OpenAI API` • `Framer Motion` • `Tailwind CSS` • `Git` • `Figma` • `Midjourney`  
 
-I master tools not to show skill, but to **build faster worlds** — ones where brands, creators, and systems evolve seamlessly.
+I master tools not to show skill, but to **build faster worlds** — where brands, creators, and systems evolve seamlessly.
 
 ---
 
@@ -61,9 +68,9 @@ Not to impress the world — but to **reshape it quietly**.
 If your vision needs someone who thinks differently —  
 **reach out before the idea fades.**
 
-📫 **[Reach out via Github]([github.com/Corvynix](https://github.com/Corvynix))**  
-💬 **[Email me](3bdulrahman.d1ab@gmail.com)**
-🌐 **[Portfolio](#)** *(coming soon)*  
+📫 **[GitHub Profile](https://github.com/Corvynix)**  
+💬 **Email:** [3bdulrahman.d1ab@gmail.com](mailto:3bdulrahman.d1ab@gmail.com)  
+🌐 **Portfolio:** *(coming soon)*  
 
 ---
 
@@ -71,7 +78,7 @@ If your vision needs someone who thinks differently —
 > The great creators don’t chase attention.  
 > They build in silence — until their work speaks so loudly, the world has no choice but to listen.
 
-
+---
 
 ### 🧬 About Me  
 > “I build things that shouldn’t exist — and then make them beautiful.”
@@ -111,7 +118,6 @@ If your vision needs someone who thinks differently —
 - Designing a **brand universe** that lives beyond identity  
 
 ---
-
 
 <h3 align="center">"Innovation doesn’t ask for permission."</h3>
 <p align="center">🦇</p>
